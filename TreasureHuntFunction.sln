@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHuntFunction", "TreasureHuntFunction\TreasureHuntFunction.csproj", "{01DFE240-F163-4A47-8CE9-6636A31678AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01DFE240-F163-4A47-8CE9-6636A31678AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DFE240-F163-4A47-8CE9-6636A31678AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DFE240-F163-4A47-8CE9-6636A31678AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DFE240-F163-4A47-8CE9-6636A31678AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A00C6B3-044D-4466-B714-BF1AC065DD9D}
+	EndGlobalSection
+EndGlobal
